@@ -1,0 +1,130 @@
+
+button.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+againbtn1
+  rotate: false
+  xy: 1, 517
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+arcadebtn1
+  rotate: false
+  xy: 1, 259
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+backbtn2
+  rotate: false
+  xy: 1, 1
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+
+button2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cAccButton
+  rotate: false
+  xy: 1, 517
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+classicbtn1
+  rotate: false
+  xy: 1, 259
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+cTouchButton
+  rotate: false
+  xy: 1, 1
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+
+button3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easybtn1
+  rotate: false
+  xy: 1, 517
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+extremebtn1
+  rotate: false
+  xy: 1, 259
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+hardbtn1
+  rotate: false
+  xy: 1, 1
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+
+button4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+menubtn1
+  rotate: false
+  xy: 1, 517
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+moderatebtn1
+  rotate: false
+  xy: 1, 259
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+playbutton1
+  rotate: false
+  xy: 1, 1
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+
+button5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+settingsbutton1
+  rotate: false
+  xy: 1, 517
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+sOffButton
+  rotate: false
+  xy: 1, 259
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
+sOnButton
+  rotate: false
+  xy: 1, 1
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1
